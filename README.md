@@ -4,7 +4,7 @@ Uploading files by using OAuth 2.0 Authorization Framework
 
 How to build and deploy the application :
 
- 1) First clone the project or download the zip file.
+ 1)First clone the project or download the zip file.
  
  2)Then run the application by the command: "gradle run".
  
